@@ -1,0 +1,42 @@
+---
+title: "pg1"
+author: "Julia"
+output:
+  html_document:
+    theme: cosmo
+    toc: yes
+    toc_float: yes
+  github_document:
+    toc: true
+    toc_depth: 2
+    pandoc_args: --webtex
+urlcolor: blue
+---
+
+```{r knitr, echo=FALSE}
+knitr::opts_chunk$set(
+  eval      = TRUE,
+  comment   = "#",
+  results   = "hold",
+  message = FALSE,
+  warning = FALSE,
+  # collapse  = TRUE,
+  fig.align = "center")
+```
+
+
+# Heading
+
+And here's the stuff I say under that heading! Look at that. it's an example... sorry it's not very interesting at all. Welp. Too bad.
+
+## A subheading
+
+I type more stuff
+
+## A second subheading.
+
+Bc why would there be a first if there weren't a second?
+
+# Another heading
+* Install `R`: download and install `R` from [this page](https://cran.r-project.org/).
+* another bullet point
