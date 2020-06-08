@@ -5,9 +5,9 @@ Many activists want to find compelling ways to convince the public and policymak
 
 
 
-## How to build a website {: #pg1}
+[## How to build a website](#pg1)
 
-## About us {: #pg2 }
+[## About us](#pg2)
 
 
 
