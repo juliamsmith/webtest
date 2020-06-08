@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
-#title: null
-title-img: logo.png
-avatar: logo.png
+title: logo.png
+#title-img: logo.png
+#avatar: logo.png
