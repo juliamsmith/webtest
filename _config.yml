@@ -1,8 +1,6 @@
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
-title: logo.png
-#title-img: logo.png
-avatar: /assets/images/logo.png
+#title: logo.png
 logo: /assets/images/logo.png
 href: https://juliamsmith.github.io/webtest/#content #not sure if content part matters!
