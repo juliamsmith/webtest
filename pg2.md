@@ -1,6 +1,5 @@
 pg2
 ================
-Julia
 
   - [Heading](#heading)
       - [A subheading](#a-subheading)
