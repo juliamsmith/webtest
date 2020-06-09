@@ -3,9 +3,13 @@ Many activists want to find compelling ways to convince the public and policymak
 
 ***
 
-## [How to build a website](pg1)
-
-## [About us](pg2)
+## [How to build a website](website)
+## [The value of data and visualization](value)
+## [Getting data](getting)
+## [Manipulating datasets in R](manipulating)
+## [Representing data](representing)
+## [How data can be misrepresented](misrepresenting)
+## [About us](about)
 
 
 
