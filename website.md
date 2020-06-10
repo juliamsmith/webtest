@@ -1,6 +1,7 @@
 How to build a website
-================
+=========
 Create a website for yourself or your organization!
+***
 
 
   - [Overview](#overview)
@@ -12,20 +13,21 @@ Create a website for yourself or your organization!
   - [Editing locally](#editing-locally)
   - [(Re)sources](#(re)sources)
 
+***
 
-# Overview
-
-CONTENT IN THE WORKS
-
-# Making a github account
+# **Overview**
 
 CONTENT IN THE WORKS
 
-# Working in markdown
+# **Making a github account**
 
 CONTENT IN THE WORKS
 
-# Themes
+# **Working in markdown**
+
+CONTENT IN THE WORKS
+
+# **Themes**
 
 CONTENT IN THE WORKS
 
@@ -37,11 +39,11 @@ CONTENT IN THE WORKS
 
 CONTENT IN THE WORKS
 
-# Editing locally
+# **Editing locally**
 
 CONTENT IN THE WORKS
 
-# (Re)sources
+# **(Re)sources**
 
 CONTENT IN THE WORKS
 
