@@ -8,7 +8,7 @@ Use R to add and delete columns, perform mathematical operations, subset by cate
   - [Overview](#overview)
   - [Building blocks](#building-blocks)
     - [Add and drop columns](#add-and-drop-columns)
-    - [Subset with logical statements (and/or)](#subset-with-logical-statements-(and/or))
+    - [Subset with logical statements](#subset-with-logical-statements)
     - [Text patterns](#text-patterns)
   - [Merge datasets](#merge-datasets)
   - [Create new columns from existing columns](#create-new-columns-from-existing-columns)
@@ -28,7 +28,7 @@ CONTENT IN THE WORKS
 
 CONTENT IN THE WORKS
 
-## Subset with logical statements (and/or)
+## Subset with logical statements
 
 CONTENT IN THE WORKS
 
