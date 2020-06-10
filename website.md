@@ -1,6 +1,5 @@
 How to build a website
-
-=======================
+================
 
 
   - [Overview](#overview)
@@ -13,35 +12,35 @@ How to build a website
   - [(Re)sources](#(re)sources)
 
 
-# **Overview**
+# Overview
 
 CONTENT IN THE WORKS
 
-# **Making a github account**
+# Making a github account
 
 CONTENT IN THE WORKS
 
-# **Working in markdown**
+# Working in markdown
 
 CONTENT IN THE WORKS
 
-# **Themes**
+# Themes
 
 CONTENT IN THE WORKS
 
-## Ready-to-use themes
+### Ready-to-use themes
 
 CONTENT IN THE WORKS
 
-## Modifying themes
+### Modifying themes
 
 CONTENT IN THE WORKS
 
-# **Editing locally**
+# Editing locally
 
 CONTENT IN THE WORKS
 
-# **(Re)sources**
+# (Re)sources
 
 CONTENT IN THE WORKS
 
