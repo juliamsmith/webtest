@@ -9,7 +9,7 @@ Finding publically available datasets, obtaining data via "scraping," and reques
   - [Accessing csvs from websites](#accessing-csvs-from-websites)
   - [Using-APIs](#using-apis)
   - [Data scraping](#data-scraping)
-  - [Requesting data (on FOIA)](#requesting-data-(on-foia))
+  - [Requesting data (intro to FOIA)](#requesting-data-(intro-to-foia))
   - [(Re)sources](#(re)sources)
 
 ***
@@ -30,7 +30,7 @@ CONTENT IN THE WORKS
 
 CONTENT IN THE WORKS
 
-# **Requesting data (on FOIA)**
+# **Requesting data (intro to FOIA)**
 
 CONTENT IN THE WORKS
 
