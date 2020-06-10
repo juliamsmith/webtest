@@ -1,5 +1,6 @@
 How to build a website
 ================
+Create a website for yourself or your organization!
 
 
   - [Overview](#overview)
@@ -28,11 +29,11 @@ CONTENT IN THE WORKS
 
 CONTENT IN THE WORKS
 
-### Ready-to-use themes
+## Ready-to-use themes
 
 CONTENT IN THE WORKS
 
-### Modifying themes
+## Modifying themes
 
 CONTENT IN THE WORKS
 
