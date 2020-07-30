@@ -147,7 +147,7 @@ To view your website, type your repository name into the address bar (in my case
  
 
 
-[Next: Making Markdowns -> ](HTBW_2/Part_2)
+[Next: Making Markdowns -> ](../HTBW_2/Part_2)
 
 
  
