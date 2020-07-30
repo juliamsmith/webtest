@@ -1,7 +1,6 @@
----
-layout: default
-title: How to build a website
----
+
+How to build a website
+=========
 
 Part 1: Building Basics
 
