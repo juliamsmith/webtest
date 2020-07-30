@@ -1,7 +1,7 @@
+How to build a website
+=========
 
-
-# How to Build a Website!
-## Part 1: Building Basics
+# Part 1: Building Basics
 
  - [Introduction](#introduction)
     - [Choosing a platform](#subparagraph1)
@@ -19,23 +19,23 @@
 - [Making a website header](#paragraph9)
 - [Viewing the final product](#paragraph10)
 
-## Introduction:  <a name="introduction"></a>
+# Introduction:  <a name="introduction"></a>
 You’ve decided to create a website to expand your platform and showcase your work... now what? Before actually building your website, you’ll need to choose a platform to host your website and an easily-identifiable domain name. 
 
-### Choosing a platform: <a name="subparagraph1"></a>
+## Choosing a platform: <a name="subparagraph1"></a>
 To get started, think about what website features you’ll need to display your content-- do you want to post pictures, have a blog section, sell merchandise, etc.? Next, what are your needs as a creator -- what level of web programming are you comfortable with? Do you want to have ads or an independent domain name? What is your budget?  
 
 On Datacts, we’ll be teaching you to build a website using GitHub Pages, a free platform. If your needs require something else, you can check out guides from [wpbeginner](https://www.wpbeginner.com/beginners-guide/how-to-choose-the-best-website-builder/) and [gettheclicks](https://www.gettheclicks.com/web-design/website-platforms/), comparing the pros and cons of other popular website builders.  
 
-### Choosing a domain name: <a name="subparagraph2"></a>
+## Choosing a domain name: <a name="subparagraph2"></a>
 A strong domain name is one of the most important parts of your website! Your domain name represents your brand, it’s the first thing those visiting your website see, and -- most importantly -- it plays a huge role in SEO, or search engine optimization. Improving SEO allows more people to organically access and learn about your work.  It’s a complicated process involving 200+ factors -- you can read more about it on [backlinko](https://backlinko.com/google-ranking-factors) and [moz](https://moz.com/learn/seo/what-is-seo) -- so we’ll focus on a few, basic tips that’ll help you create a recognizable, optimized domain name: 
 
 Your domain name should be **specific, short, and easy to type**. **Specific:** your domain name should be unique to your brand, and reflect the work you do and content your produce. It can (and often should) be different from the name of your organization, using an acronym or a specific term. Similarly, it should relate to your social media handles. For example, the NJ Institute for Social Justice uses the website domain “njisj.org” and the social media handle @dosocialjustice. **Short:** the average domain length is 12 characters; for SEO optimization, you should aim between 6 and 14 characters. **Easy to type:** your domain name should be memorable -- including easy spelling and minimal confusion about word order, if you’re using an acronym.  To learn more about choosing and optimizing your domain name, check out this guide provided by websitesetup. 
 
-### Building your website: <a name="subparagraph3"></a>
+## Building your website: <a name="subparagraph3"></a>
 Once you’ve chosen a unique domain name, you’re ready to get started. Here, we’ll walk you through the steps of creating a GitHub account and building the basics of your website. 
 
-## 1. Create an Account: <a name="paragraph1"></a>
+# 1. Create an Account: <a name="paragraph1"></a>
 
 ![](1.gif)
 
@@ -47,7 +47,7 @@ Go to [github.com](github.com) and create an account. Under ```Username``` write
 1. It's a super long URL
 2. It's unprofessional and a tad bit embarrasing.
 
-## 2. Tell Github about yourself, and your needs: <a name="paragraph2"></a>
+# 2. Tell Github about yourself, and your needs: <a name="paragraph2"></a>
 
 ![](2.gif)
  
@@ -63,7 +63,7 @@ After creating an account, a survey will pop up, asking you the following:
   
 
 
-## 3. Creating a repository (repo): <a name="paragraph3"></a>
+# 3. Creating a repository (repo): <a name="paragraph3"></a>
 
 A repository, or repo, is a folder for a project. You’ll be putting files inside the repo to build your website. Github will save all past versions of your repo, so you can always go back to a previous version.
 
@@ -80,7 +80,7 @@ There are two options for your repo: ```Public``` or ```Private```.
 
 
 
-## 4. Exploring your repo homepage: <a name="paragraph4"></a>
+# 4. Exploring your repo homepage: <a name="paragraph4"></a>
 
 ![](4.gif)
  
@@ -89,14 +89,14 @@ Now, let’s take a look at the home page for your repo, which will serve as the
 - You only have one ``commit``: Each time you make changes that you save, this will be known as a “commit”. Right now you have just one, since you just started your website. Commits are what provide an edit history. You can return to previous commits if you want to revert your website to its previous state.
 
 
-## 5. Choosing a theme: <a name="paragraph5"></a>
+# 5. Choosing a theme: <a name="paragraph5"></a>
 
 ![](5.gif)
 
 Click on ```Settings,``` which is on the rightmost side with a gear icon. On the first page it leads you to, scroll down until you get to the section called ```GitHub pages```. Under ```Theme Chooser```, click ```Choose a theme```. Your theme is for aesthetic purposes, and you can always go back and change it.  When you’ve chosen one that works for you, click ```Select theme```. In our example, we chose ```Cayman```. 
 
 
-## 6. Check your repo homepage: <a name="paragraph6"></a>
+# 6. Check your repo homepage: <a name="paragraph6"></a>
 
 ![](six.gif)
 
@@ -104,13 +104,13 @@ Once you choose a theme, you’ll be redirected back to your repo homepage under
 -Open README.md in a new tab so you can reference it; you will use the format it shows you to create the Markdown files, which will form your website pages. 
 
 
-## 7. Create your website’s homepage: <a name="paragraph7"></a>
+# 7. Create your website’s homepage: <a name="paragraph7"></a>
 
 ![](seven.gif)
 
 Click ```Create new file```. You will be directed to another page. Then, in the box that says ```Name your file,``` type ```index.md”```. The ```.md``` stands for markdown. This will create the homepage of your website.
 
-### Using README.md as a guide: <a name="subparagraph4"></a>
+## Using README.md as a guide: <a name="subparagraph4"></a>
 
 ![](8.gif)
 
@@ -118,7 +118,7 @@ Now remember how we opened ```README.md``` in another tab? Use this as your guid
 
 
 
-## 8. Committing (saving) the file: <a name="paragraph8"></a>
+# 8. Committing (saving) the file: <a name="paragraph8"></a>
 
 ![](9.gif)
 
@@ -126,7 +126,7 @@ When you are done, click ```commit new file```. It is good practice to add a des
 
 
 
-## 9. Making a website header: <a name="paragraph9"></a>
+# 9. Making a website header: <a name="paragraph9"></a>
 
 ![](10.gif)
 
@@ -137,7 +137,7 @@ Now it’s time to make a header name for your website. If you don’t, your web
 - **Always remember to commit changes!**
 
 
-## 10. Viewing the final product:  <a name="paragraph10"></a>
+# 10. Viewing the final product:  <a name="paragraph10"></a>
   
 To view your website, type your repository name into the address bar (in my case, [http://segbeyondlaw.github.io](http://segregationbeyondlaw.github.io)).
 
@@ -147,7 +147,7 @@ To view your website, type your repository name into the address bar (in my case
  
 
 
-[Next: Making Markdowns -> ](Part_2.md)
+[Next: Making Markdowns -> ](HTBW_2/Part_2)
 
 
  
