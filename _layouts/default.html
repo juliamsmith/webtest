@@ -30,7 +30,7 @@
   <body>
     <a href="https://juliamsmith.github.io/webtest">
     <header class="page-header" role="banner">
-      <img src="https://github.com/juliamsmith/webtest/blob/master/assets/images/logo.png" class="project-name" />
+      <img src="/assets/images/logo.png" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
