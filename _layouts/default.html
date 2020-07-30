@@ -8,7 +8,7 @@
   <link rel="manifest" href="assets/images/site.webmanifest">
   <link rel="mask-icon" href="assets/images/safari-pinned-tab.svg" color="#5bbad5">
   <meta name="msapplication-TileColor" content="#da532c">
-  <meta name="theme-color" content="#e6e6e6">
+  <meta name="theme-color" content="#ffffff">
 
     {% if site.google_analytics %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
@@ -30,7 +30,7 @@
   <body>
     <a href="https://juliamsmith.github.io/webtest">
     <header class="page-header" role="banner">
-      <img src="assets/images/logo.png" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
+      <img src="~/assets/images/logo.png" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
