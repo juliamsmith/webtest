@@ -1,7 +1,9 @@
 How to build a website
 =========
 
-# Part 1: Building Basics
+Part 1: Building Basics
+
+***
 
  - [Introduction](#introduction)
     - [Choosing a platform](#subparagraph1)
@@ -18,6 +20,8 @@ How to build a website
 - [Committing (saving) the file](#paragraph8)
 - [Making a website header](#paragraph9)
 - [Viewing the final product](#paragraph10)
+
+***
 
 # Introduction:  <a name="introduction"></a>
 You’ve decided to create a website to expand your platform and showcase your work... now what? Before actually building your website, you’ll need to choose a platform to host your website and an easily-identifiable domain name. 
@@ -147,7 +151,7 @@ To view your website, type your repository name into the address bar (in my case
  
 
 
-[Next: Making Markdowns -> ](../HTBW_2/Part_2)
+[Next: Making Markdowns -> ](../HTBW_2/part_2)
 
 
  
