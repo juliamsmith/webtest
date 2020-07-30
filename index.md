@@ -3,7 +3,7 @@ Many activists want to find compelling ways to convince the public and policymak
 
 ***
 
-## [How to build a website](website)
+## [How to build a website](HTBW_1/part_1)
 ## [The value of data and visualization](value)
 ## [Getting data](getting)
 ## [Manipulating data](manipulating)
